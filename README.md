@@ -4,7 +4,7 @@
   <tr>
     <td style="text-align: center; vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/c3b57ed9-3d27-49a8-8718-b711f6dd0eb1" 
-           style="width: 500px; max-width: 50%; min-width: 100px; height: auto; border-radius: 50%; object-fit: cover;" 
+           style="width: 500px; max-width: 80%; min-width: 400px; height: auto; border-radius: 50%; object-fit: cover;" 
            alt="Gambar Profil"/>
     </td>
     <td style="text-align: left; padding-left: 20px; vertical-align: top;">
