@@ -2,10 +2,10 @@
 
 <table style="width: 100%; table-layout: auto;">
   <tr>
-    <td style="width: 200px; text-align: center; vertical-align: top;">
+    <td style="text-align: center; vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/c3b57ed9-3d27-49a8-8718-b711f6dd0eb1" 
-           style="width: 100%; max-width: 200px; height: auto; border-radius: 50%; object-fit: cover;" 
-           alt="Gambar 1"/>
+           style="width: 150px; max-width: 30%; min-width: 100px; height: auto; border-radius: 50%; object-fit: cover;" 
+           alt="Gambar Profil"/>
     </td>
     <td style="text-align: left; padding-left: 20px; vertical-align: top;">
       <span style="font-size: 24px; font-weight: bold;">Mohammad Iqbal Baharsyah</span> <br><br>
@@ -23,6 +23,5 @@
     </td>
   </tr>
 </table>
-Penjelasan Detil
 
 
